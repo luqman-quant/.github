@@ -1,3 +1,5 @@
+> **Moved, 2026-09-13.** This organisation's repository now lives in **[Niaga Labs](https://github.com/niaga-labs)**. The name `luqman-quant` is kept so that old links keep working.
+
 <div align="center">
 
 # luqman-quant
